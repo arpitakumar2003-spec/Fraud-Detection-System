@@ -5,10 +5,6 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Production-ready fraud detection system using ensemble machine learning models with real-time inference, explainable AI, and comprehensive monitoring.**
-
-![Fraud Detection Demo](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Fraud+Detection+System+Demo)
-
 ## 🚀 **Key Features**
 
 ### 🤖 **Advanced ML Pipeline**
