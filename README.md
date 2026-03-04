@@ -228,19 +228,6 @@ docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 **Author**
-
-**Sunny Nguyen**
-
-- 🔗 **GitHub**: [@sunnynguyen-ai](https://github.com/sunnynguyen-ai)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/sunnynguyen-ai)
-
-
 ### Technical Expertise
 - **ML Engineering**: Production model deployment, feature engineering, model monitoring
 - **Computer Vision**: Medical image analysis, object detection, image classification
@@ -249,16 +236,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 **Star this repository if you found it helpful!**
-
-### Related Projects
-- 🏥 [Medical Image Classifier](https://github.com/sunnynguyen-ai/medical-image-classifier) - Deep learning for pneumonia detection
-- 🏠 [House Price Prediction](https://github.com/sunnynguyen-ai/house-price-prediction) - End-to-end ML project with deployment
-
----
-
-<div align="center">
-
-**⭐ If this project helped you, please consider giving it a star! ⭐**
-
-</div>
