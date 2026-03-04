@@ -212,18 +212,7 @@ docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
 - **GCP**: Cloud Run or GKE with Ingress
 - **Azure**: Container Instances or AKS
 
-## 🤝 **Contributing**
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-### Technical Expertise
-- **ML Engineering**: Production model deployment, feature engineering, model monitoring
-- **Computer Vision**: Medical image analysis, object detection, image classification
-- **NLP**: Sentiment analysis, text classification, language models
-- **MLOps**: Docker, Kubernetes, CI/CD pipelines, model versioning
 
 ---
 
