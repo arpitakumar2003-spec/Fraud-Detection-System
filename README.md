@@ -66,10 +66,6 @@ fraud-detection-system/
 
 ### Option 1: Docker Deployment (Recommended)
 ```bash
-# Clone repository
-git clone https://github.com/sunnynguyen-ai/fraud-detection-system.git
-cd fraud-detection-system
-
 # Start all services
 docker-compose up -d
 
